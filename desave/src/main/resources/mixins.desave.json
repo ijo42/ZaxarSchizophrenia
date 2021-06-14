@@ -1,0 +1,17 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "ru.ijo42.desave.mixin",
+  "mixins": [
+    "AdvancedManager",
+    "AnvilChunkLoader",
+    "AnvilSaveHandler",
+    "FunctionManager",
+    "MapStorage",
+    "RegionFileCache",
+    "SaveHandler",
+    "WorldSpecificSaveHandler"
+  ],
+  "client": [],
+  "server": [
+  ]
+}
